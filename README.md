@@ -1,13 +1,12 @@
 # 👋 Akmal Muzakki Bakir 👋
 
-## Tech Skills
-
 ### Summary
 
 - School: Telkom University
 - Major: Data Science
 - Email Student: akmalmzkki@student.telkomuniversity.ac.id
 
+## Tech Skills
 
 ### Programming Languages
 
