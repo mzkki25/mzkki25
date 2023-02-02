@@ -31,8 +31,8 @@
 
 ## Github Stats
 
-[![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalmzkki&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalmzkki&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalmzkki&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalmzkki&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact Me
