@@ -1,6 +1,6 @@
 # 👋 Akmal Muzakki Bakir 👋
 
-### Summary
+## Summary
 
 - School: Telkom University
 - Major: Data Science
