@@ -5,6 +5,7 @@
 - School: Telkom University
 - Major: Data Science
 - Email Student: akmalmzkki@student.telkomuniversity.ac.id
+- CV: https://akmalmzkki.github.io/
 
 ## Tech Skills
 
