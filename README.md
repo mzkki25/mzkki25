@@ -2,10 +2,10 @@
 
 ## Summary
 
-- School: Telkom University
-- Major: Data Science
-- Email Student: akmalmzkki@student.telkomuniversity.ac.id
-- Website: [https://akmalmzkki.github.io/](https://akmalmzkki.github.io/)
+- **School**: Telkom University
+- **Major**: Data Science
+- **Email Student**: akmalmzkki@student.telkomuniversity.ac.id
+- **Website**: [https://akmalmzkki.github.io/](https://akmalmzkki.github.io/)
 
 ## Tech Skills
 
