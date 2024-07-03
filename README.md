@@ -5,7 +5,7 @@
 - **School**: Telkom University
 - **Major**: Data Science
 - **Email Student**: akmalmzkki@student.telkomuniversity.ac.id
-- **Website**: [https://akmalmzkki.github.io/](https://akmalmzkki.github.io/)
+- **Website**: [https://mzkki25.github.io/](https://mzkki25.github.io/)
 
 ## Tech Skills
 
