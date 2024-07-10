@@ -34,12 +34,12 @@
 <!-- ## Github Stats
 [![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalmzkki&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 ---
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalmzkki&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=mzkki25&layout=compact&theme=radical&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/akmal-muzakki-0116a3219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/akmalmb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/akmalmzkki/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:akmalm2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
